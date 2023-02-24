@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 178137,
+      "balance": 155837,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -26,7 +26,7 @@
       "phoneNumber": "537-041-4355",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/qywYp6hS0U.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 101805,
+      "balance": 114105,
       "createdAt": "2019-09-09T13:48:45.489Z",
       "modifiedAt": "2020-05-21T02:34:01.483Z"
     },
@@ -74,17 +74,6 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
-    },
-    {
-      "id": "q4mpOT3gD",
-      "uuid": "af51b99c-5638-48ed-8733-69b74ebddbd6",
-      "firstName": "Andrzej",
-      "lastName": "Legowik",
-      "username": "Andrzej",
-      "password": "$2a$10$H6U48FEJJhUQbrm/Rz6lK.nnwh3M7H0KbwV/I.870JSleB4MKqgna",
-      "balance": 0,
-      "createdAt": "2023-02-22T21:42:59.124Z",
-      "modifiedAt": "2023-02-22T21:42:59.124Z"
     }
   ],
   "contacts": [
@@ -264,17 +253,6 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
-    },
-    {
-      "id": "xUCT9JhuP",
-      "uuid": "9e27faf3-0c86-4953-84cd-ab1e4848357b",
-      "userId": "q4mpOT3gD",
-      "bankName": "AndrzejBank",
-      "accountNumber": "123123123",
-      "routingNumber": "123123123",
-      "isDeleted": false,
-      "createdAt": "2023-02-22T21:43:19.887Z",
-      "modifiedAt": "2023-02-22T21:43:19.887Z"
     }
   ],
   "transactions": [
@@ -9879,15 +9857,16 @@
       "modifiedAt": "2020-05-21T04:58:44.494Z"
     },
     {
-      "id": "38Yg1MGc-",
-      "uuid": "37c28f6d-8513-49e6-9978-4216b1ffc06a",
-      "amount": 10000,
-      "description": "Hej",
-      "receiverId": "t45AiwidW",
-      "senderId": "q4mpOT3gD",
+      "id": "7mvScPXU-",
+      "uuid": "cf15abe5-3a82-43c9-a78d-83ac9dc0b5a8",
+      "amount": 12300,
+      "description": "hy",
+      "receiverId": "qywYp6hS0U",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
       "status": "complete",
-      "createdAt": "2023-02-22T21:44:24.759Z",
-      "modifiedAt": "2023-02-22T21:44:24.759Z"
+      "createdAt": "2023-02-24T18:44:31.341Z",
+      "modifiedAt": "2023-02-24T18:44:31.341Z"
     }
   ],
   "likes": [
@@ -10466,14 +10445,14 @@
       "modifiedAt": "2020-05-21T21:00:50.192Z"
     },
     {
-      "id": "ZO9baLTg1v",
-      "uuid": "0ccb02fb-1ee9-47b5-b01d-e87400f29fd1",
-      "userId": "t45AiwidW",
-      "transactionId": "38Yg1MGc-",
+      "id": "ZIstj9hv2S",
+      "uuid": "30d62a4e-a331-4190-85b9-0743272aff94",
+      "userId": "qywYp6hS0U",
+      "transactionId": "7mvScPXU-",
       "status": "received",
       "isRead": false,
-      "createdAt": "2023-02-22T21:44:24.794Z",
-      "modifiedAt": "2023-02-22T21:44:24.794Z"
+      "createdAt": "2023-02-24T18:44:31.363Z",
+      "modifiedAt": "2023-02-24T18:44:31.363Z"
     }
   ],
   "banktransfers": [
@@ -11026,16 +11005,6 @@
       "transactionId": "jtdpSmWcsJxk",
       "createdAt": "2019-10-10T05:09:20.517Z",
       "modifiedAt": "2020-05-21T12:24:00.749Z"
-    },
-    {
-      "id": "9uP_89Xxdn",
-      "uuid": "2d652dd5-90fb-4751-a16e-7f5a4c4a33e3",
-      "userId": "q4mpOT3gD",
-      "amount": 10000,
-      "transactionId": "38Yg1MGc-",
-      "type": "withdrawal",
-      "createdAt": "2023-02-22T21:44:24.767Z",
-      "modifiedAt": "2023-02-22T21:44:24.767Z"
     }
   ]
 }
