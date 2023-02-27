@@ -1,5 +1,5 @@
 import { SigninPage } from "../Pages/SignInPage";
-import { SignUp, SignUpSelectors } from "../Pages/SignUpPage";
+import { SignUp } from "../Pages/SignUpPage";
 
 describe("E2E Homepage Real World", () => {
   it("should visit signin panel and login to existing account and logout", () => {

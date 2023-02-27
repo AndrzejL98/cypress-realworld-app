@@ -217,6 +217,17 @@
       "balance": 0,
       "createdAt": "2023-02-27T15:56:53.625Z",
       "modifiedAt": "2023-02-27T15:56:53.625Z"
+    },
+    {
+      "id": "HyAvi6nDq",
+      "uuid": "12ede5e4-33dd-405c-aa0f-5128a08909f3",
+      "firstName": "Andrzej",
+      "lastName": "Legowik",
+      "username": "Andrzej1",
+      "password": "$2a$10$GMxeA7rbM9sE3WhjQycf0.HCNqBeHOjsd5SXKnm5UopuV3hhA5P52",
+      "balance": 0,
+      "createdAt": "2023-02-27T18:24:48.153Z",
+      "modifiedAt": "2023-02-27T18:24:48.153Z"
     }
   ],
   "contacts": [
