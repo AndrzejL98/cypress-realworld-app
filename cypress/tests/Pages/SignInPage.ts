@@ -1,10 +1,17 @@
 export class SigninPage {
   signIn(login: string, passoword: string) {
+    //Arrange
+    cy.visit("/");
+    //Act
     cy.get(SignInSelectors.loginLabel).click().type(login);
     cy.get(SignInSelectors.passwordLabel).click().type(passoword);
+
+    //Assert
+    cy.get(SignInSelectors.submitBtn).should("not.have.class", "Mui-disabled");
   }
   rememberAndSubmit() {
     cy.get(SignInSelectors.rememberMeBtn).click();
+
     cy.get(SignInSelectors.submitBtn).click();
   }
   logout() {

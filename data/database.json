@@ -76,158 +76,81 @@
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     },
     {
-      "id": "-G7rTGywm",
-      "uuid": "1ce01774-a02b-4976-89f8-fe35f28d40fa",
-      "firstName": "Andrzej",
-      "lastName": "Łęgowik",
-      "username": "234234",
-      "password": "$2a$10$zwfpmYfVLdSgC77we9OGtOXJ0Z8Nw83/7CgMat156Tc.ooNlt0zR6",
-      "balance": 0,
-      "createdAt": "2023-02-27T15:19:32.293Z",
-      "modifiedAt": "2023-02-27T15:19:32.293Z"
-    },
-    {
-      "id": "INABr4GcB",
-      "uuid": "f1242470-f230-443a-82da-5e77b47a8d87",
+      "id": "pb8iE55fN",
+      "uuid": "a92c93e8-4b21-4633-a1a3-53d8663bccdf",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$7Shih4lNunC9GPo8LKtlG.GiFWvMkj2B1WMeB0tz/4c7s11pghvYS",
+      "password": "$2a$10$tqZBZ9GOh8AbGPRs1rWXfejtyf8r15tVvVkigUNw3ZVt2DpLrDxDe",
       "balance": 0,
-      "createdAt": "2023-02-27T15:36:14.221Z",
-      "modifiedAt": "2023-02-27T15:36:14.221Z"
+      "createdAt": "2023-02-28T18:13:33.747Z",
+      "modifiedAt": "2023-02-28T18:13:33.747Z"
     },
     {
-      "id": "oug2beEYm",
-      "uuid": "81cb9406-a8ef-4814-bdbf-0923cfb5c067",
+      "id": "ZfTr822Wc",
+      "uuid": "09fcf822-8895-4cde-b5e5-c63d37eee742",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$iaFvO36aFYm7CKi0lGGm4eN5sgwo2QJP7b8hB89bjCPY0GS6rF9WO",
+      "password": "$2a$10$dNbhmTExT0wB4ufMPq4yQ.6NjHc/oeYl3fV5xoFiMpuXNuFha0t02",
       "balance": 0,
-      "createdAt": "2023-02-27T15:37:12.189Z",
-      "modifiedAt": "2023-02-27T15:37:12.189Z"
+      "createdAt": "2023-02-28T18:14:14.704Z",
+      "modifiedAt": "2023-02-28T18:14:14.704Z"
     },
     {
-      "id": "ijAlf_-Tq",
-      "uuid": "3a37dadd-9c68-415f-b832-1cb6f120a28b",
+      "id": "gKJXMXe9b",
+      "uuid": "e185da4f-af7c-4d04-8d91-2cf38344c883",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$p2yNSdoiZWKM2jvGIudzau0FEWL8PGKE7IuBdIwi/fc/IkLhje0zK",
+      "password": "$2a$10$87tAdNFWK2Bc5Q/hA2Xe0.tqqaNeFbRiRCSYL5ZD6Q3W5vm/fnQiu",
       "balance": 0,
-      "createdAt": "2023-02-27T15:40:48.928Z",
-      "modifiedAt": "2023-02-27T15:40:48.928Z"
+      "createdAt": "2023-02-28T18:22:20.610Z",
+      "modifiedAt": "2023-02-28T18:22:20.610Z"
     },
     {
-      "id": "dgYhGJKv4",
-      "uuid": "b8121ade-d42b-4a08-aba3-1daf07810244",
+      "id": "6EG1f3uxI",
+      "uuid": "8950f65e-4eff-46b4-8994-06e2e70e3635",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$xJxWjv.WJHLXzWcNbm7DG.MhnjHuHKws1aKiYorRFHjXrNlX6lI0C",
+      "password": "$2a$10$ZHxClA.likgg/mCkj2d2/OynjVJ.C.IA4tBmdW4zCr4np5fPugUzK",
       "balance": 0,
-      "createdAt": "2023-02-27T15:41:21.163Z",
-      "modifiedAt": "2023-02-27T15:41:21.163Z"
+      "createdAt": "2023-02-28T18:26:12.919Z",
+      "modifiedAt": "2023-02-28T18:26:12.919Z"
     },
     {
-      "id": "Can-GDGul",
-      "uuid": "68f05999-9d22-4937-b877-7b7a910856c3",
+      "id": "rUYj-XydZ",
+      "uuid": "777f57d6-ab78-48bc-a032-76b6832b3a3e",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$t1exoSFVv8COAT7c54x10.jANj7aJthy.ttr7XU5SbW89Cw8Feplm",
+      "password": "$2a$10$TEtWH7cAC695Q//qN9SRceNjESB6e1bM3ydJxtAKNMrguHCQZZPvW",
       "balance": 0,
-      "createdAt": "2023-02-27T15:41:54.949Z",
-      "modifiedAt": "2023-02-27T15:41:54.949Z"
+      "createdAt": "2023-02-28T18:27:33.114Z",
+      "modifiedAt": "2023-02-28T18:27:33.114Z"
     },
     {
-      "id": "ITKqTi-yP",
-      "uuid": "38c3635d-6aca-4960-9464-b05caa8c7a59",
-      "firstName": "123",
-      "lastName": "Legowik",
-      "username": "Andrzej1",
-      "password": "$2a$10$pimTj4a5GgE/9dXC9TkjouKYES03qIUHJwqOXW3TjMHTSFVlU8ve.",
-      "balance": 0,
-      "createdAt": "2023-02-27T15:41:57.311Z",
-      "modifiedAt": "2023-02-27T15:41:57.311Z"
-    },
-    {
-      "id": "bz_Ug675G",
-      "uuid": "b1afb4b3-a3e7-4b22-afd1-31617cb56dbd",
-      "firstName": "123",
-      "lastName": "22222",
-      "username": "22222",
-      "password": "$2a$10$sJH.V9pX98Vgef8MGQGgOuKR7soJsvse5R94aykiam3SDkXj8pdam",
-      "balance": 0,
-      "createdAt": "2023-02-27T15:42:21.967Z",
-      "modifiedAt": "2023-02-27T15:42:21.967Z"
-    },
-    {
-      "id": "Xnn8Q0VCD",
-      "uuid": "ef7357c6-bea0-4fda-a04f-650f7ce97160",
-      "firstName": "",
-      "lastName": "",
-      "username": "",
-      "password": "$2a$10$LLLuyiKVcG4SRrpoX85ntO/lcuSbgh0R03LOYqjgS8bg5OqEJJ71q",
-      "balance": 0,
-      "createdAt": "2023-02-27T15:43:29.802Z",
-      "modifiedAt": "2023-02-27T15:43:29.802Z"
-    },
-    {
-      "id": "HUzu62PWR",
-      "uuid": "4a9f60fc-fdd9-438b-8fe2-dc712f4e23f0",
+      "id": "yczJ5cWm4",
+      "uuid": "ee750954-e46b-47cd-b308-067d2111d765",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$9Jna6PdP8G3xEVe6aud9q.5iDAP/3gEALhFzO.mL2gGoI9MXWcisC",
+      "password": "$2a$10$rx1LGgpSXSJjnO7CXbv7yOEjCJweJjs05cE6ECyIz/2gsod5XVo/a",
       "balance": 0,
-      "createdAt": "2023-02-27T15:45:14.013Z",
-      "modifiedAt": "2023-02-27T15:45:14.013Z"
+      "createdAt": "2023-02-28T18:28:58.336Z",
+      "modifiedAt": "2023-02-28T18:28:58.336Z"
     },
     {
-      "id": "l3ojynOG4",
-      "uuid": "129a6eab-6fb8-40cb-9f85-b3cacb291bd3",
+      "id": "pA2sAiXuA",
+      "uuid": "0df53dcc-116f-4000-acf2-575f75b40e82",
       "firstName": "Andrzej",
       "lastName": "Legowik",
       "username": "Andrzej1",
-      "password": "$2a$10$wlakTL..gavQfiqEwB4Wme720g/wkjIQaIbFsJQGEnaeSE1vUxHF.",
+      "password": "$2a$10$EGgxvxZUJ1VBj3YvbE5hKuZsrjrbN4KpnTk1BcU0xw9cNJud56O2y",
       "balance": 0,
-      "createdAt": "2023-02-27T15:55:11.075Z",
-      "modifiedAt": "2023-02-27T15:55:11.075Z"
-    },
-    {
-      "id": "tLnqjwNZA",
-      "uuid": "afe6ae47-95c6-43d2-8814-063f04c216ee",
-      "firstName": "Andrzej",
-      "lastName": "Legowik",
-      "username": "Andrzej1",
-      "password": "$2a$10$Q4B1yaBF5KFm1h6DWgwyPuZNM9FFXYRXxxQeGRNIjcPNoYuOJCNL2",
-      "balance": 0,
-      "createdAt": "2023-02-27T15:55:43.019Z",
-      "modifiedAt": "2023-02-27T15:55:43.019Z"
-    },
-    {
-      "id": "w_QInToPL",
-      "uuid": "794f5c92-f287-4ab3-b835-3870a2b27b0d",
-      "firstName": "Andrzej",
-      "lastName": "Legowik",
-      "username": "Andrzej1",
-      "password": "$2a$10$jY8n2vx0jDyoydc04tYBseM/CZqzC7EIdgkK8j9OUkXqj3vuL..GC",
-      "balance": 0,
-      "createdAt": "2023-02-27T15:56:53.625Z",
-      "modifiedAt": "2023-02-27T15:56:53.625Z"
-    },
-    {
-      "id": "HyAvi6nDq",
-      "uuid": "12ede5e4-33dd-405c-aa0f-5128a08909f3",
-      "firstName": "Andrzej",
-      "lastName": "Legowik",
-      "username": "Andrzej1",
-      "password": "$2a$10$GMxeA7rbM9sE3WhjQycf0.HCNqBeHOjsd5SXKnm5UopuV3hhA5P52",
-      "balance": 0,
-      "createdAt": "2023-02-27T18:24:48.153Z",
-      "modifiedAt": "2023-02-27T18:24:48.153Z"
+      "createdAt": "2023-02-28T18:32:43.150Z",
+      "modifiedAt": "2023-02-28T18:32:43.150Z"
     }
   ],
   "contacts": [
