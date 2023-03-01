@@ -1,4 +1,5 @@
 import { SigninPage } from "../Pages/SignInPage";
+import { SignUpAlert } from "../Pages/SignUpAlert";
 import { SignUp } from "../Pages/SignUpPage";
 
 describe("E2E Homepage Real World", () => {
@@ -13,5 +14,9 @@ describe("E2E Homepage Real World", () => {
   it("should visit signup panel and complete the form correctly ", () => {
     const signUp = new SignUp();
     signUp.signUp("Andrzej", "Legowik", "Andrzej1", "haslo123", "haslo123");
+  });
+  it("should display an error in red when you enter a wrong confirm Password ", () => {
+    const signUpAlert = new SignUpAlert();
+    signUpAlert.signUpAlert();
   });
 });

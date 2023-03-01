@@ -23,6 +23,7 @@ export class SignUp {
     cy.get(SignUpSelectors.passwordLabel).should("have.attr", "aria-invalid", "false");
     cy.get(SignUpSelectors.confirmPasswordLabel).should("have.attr", "aria-invalid", "false");
     cy.get(SignUpSelectors.signUpBtn).click();
+    cy.url().should("include", "/signin");
   }
 }
 
@@ -33,4 +34,5 @@ export class SignUpSelectors {
   static passwordLabel = "#password";
   static confirmPasswordLabel = "#confirmPassword";
   static signUpBtn = '[data-test="signup-submit"]';
+  static confirmPasswordAlert = "#confirmPassword-helper-text";
 }

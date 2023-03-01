@@ -1,13 +1,14 @@
 export class SigninPage {
-  signIn(login: string, passoword: string) {
+  signIn(login: string, password: string) {
     //Arrange
     cy.visit("/");
     //Act
     cy.get(SignInSelectors.loginLabel).click().type(login);
-    cy.get(SignInSelectors.passwordLabel).click().type(passoword);
+    cy.get(SignInSelectors.passwordLabel).click().type(password);
 
     //Assert
     cy.get(SignInSelectors.submitBtn).should("not.have.class", "Mui-disabled");
+    cy.get(SignInSelectors.passwordLabel).should("have.attr", "type", "password");
   }
   rememberAndSubmit() {
     cy.get(SignInSelectors.rememberMeBtn).click();
