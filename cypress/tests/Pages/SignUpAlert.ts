@@ -6,6 +6,10 @@ export class SignUpAlert {
     cy.get(SignUpSelectors.confirmPasswordLabel).type("WrongPassword123");
     cy.get(SignUpSelectors.confirmPasswordAlert)
       .should("be.visible")
-      .and("have.css", "color", "rgb(244, 67, 54)");
+      .and("have.css", "color", SignUpAlertConstans.redColor);
   }
+}
+
+class SignUpAlertConstans {
+  static redColor = "rgb(244, 67, 54)";
 }

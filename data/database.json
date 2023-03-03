@@ -74,6 +74,61 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "wWZ933Vdq",
+      "uuid": "a13ed98a-6447-48c9-8d93-a15b4c7ab9a0",
+      "firstName": "1111",
+      "lastName": "",
+      "username": "",
+      "password": "$2a$10$l7EIrxiTshWzfrSSoFtoFuXwsHD5zMhntcmcsaOc4zIQ88vkEGpR2",
+      "balance": 0,
+      "createdAt": "2023-03-03T18:04:07.521Z",
+      "modifiedAt": "2023-03-03T18:04:07.521Z"
+    },
+    {
+      "id": "yXCbJ4gj8",
+      "uuid": "bff7596d-786c-4302-bb04-2d399cf93ae1",
+      "firstName": "Andrzej",
+      "lastName": "Legowik",
+      "username": "Andrzej1",
+      "password": "$2a$10$NMGeZdMJ8.qw9qA8Xj2pCeNVoNYNcbVAorvkO6kVJcSBMlcd4aXBq",
+      "balance": 0,
+      "createdAt": "2023-03-03T20:05:06.758Z",
+      "modifiedAt": "2023-03-03T20:05:06.758Z"
+    },
+    {
+      "id": "KZg2-mfzk",
+      "uuid": "c6fa56cc-d4b1-4e92-aed7-6a48f9b6a7dc",
+      "firstName": "Andrzej",
+      "lastName": "Legowik",
+      "username": "Andrzej1",
+      "password": "$2a$10$7Gw8bkQ2525fk/dy5COLT.oo/.kvNxJA5uImXQVrisnBat1lNCjKu",
+      "balance": 0,
+      "createdAt": "2023-03-03T20:12:30.095Z",
+      "modifiedAt": "2023-03-03T20:12:30.095Z"
+    },
+    {
+      "id": "MUmHKMeCQ",
+      "uuid": "76cd3a98-7d13-4576-ad0e-4801bae7f74d",
+      "firstName": "Andrzej",
+      "lastName": "Legowik",
+      "username": "Andrzej1",
+      "password": "$2a$10$7K.nj0koV5eL3ARCqK17Rul8kXjmfJ2uL8f4EDOVsho06RBIjb3aG",
+      "balance": 0,
+      "createdAt": "2023-03-03T20:19:38.633Z",
+      "modifiedAt": "2023-03-03T20:19:38.633Z"
+    },
+    {
+      "id": "APa3co1iT",
+      "uuid": "fb4a673c-6ee2-484a-983f-1e234c1e6f2d",
+      "firstName": "Andrzej",
+      "lastName": "Legowik",
+      "username": "Andrzej1",
+      "password": "$2a$10$US7wKH8QlcDub8dnRg61tePS4bVVljlQ7hJbueXnB1YzZzHKA/mVC",
+      "balance": 0,
+      "createdAt": "2023-03-03T20:21:04.419Z",
+      "modifiedAt": "2023-03-03T20:21:04.419Z"
     }
   ],
   "contacts": [
